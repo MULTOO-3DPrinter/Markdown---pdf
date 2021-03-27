@@ -85,8 +85,10 @@ After a simple analysis,
 In other words, the results of test.html and test_tmp.html are different.
 
 The temporary solution is,
+
 **Step1.**
 Open the extension folder of vscode and find the extension.js file in the Markdown-pdf directory. Use a txt editor to open this file.
+
 **Step2.**
 Change two lines of code,
 ```
